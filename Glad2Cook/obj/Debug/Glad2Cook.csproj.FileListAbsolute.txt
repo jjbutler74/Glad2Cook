@@ -1,0 +1,6 @@
+C:\GitHub\Glad2Cook\Glad2Cook\bin\Glad2Cook.dll.config
+C:\GitHub\Glad2Cook\Glad2Cook\bin\Glad2Cook.dll
+C:\GitHub\Glad2Cook\Glad2Cook\bin\Glad2Cook.pdb
+C:\GitHub\Glad2Cook\Glad2Cook\obj\Debug\Glad2Cook.csprojResolveAssemblyReference.cache
+C:\GitHub\Glad2Cook\Glad2Cook\obj\Debug\Glad2Cook.dll
+C:\GitHub\Glad2Cook\Glad2Cook\obj\Debug\Glad2Cook.pdb
